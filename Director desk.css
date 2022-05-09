@@ -1,0 +1,42 @@
+.body
+{
+    text-align: center;
+    color: black;
+    background-color: rgb(17, 20, 223);
+}
+.container
+{
+    border: 5px solid rgb(143, 134, 13);
+    background-color:rgba(12, 188, 50, 0.5);
+    height:max-content
+    backface-visibility: visible;
+}
+#logo
+{
+    margin-top:10%;
+    padding-left: 16%;
+    float:left;
+}
+.contents h1
+{
+    margin-top: 5%;
+text-align:justify;
+text-decoration-line:overline;
+}
+.contents{
+    margin: 0%;
+    padding: 0%;
+}
+.contents p{
+    padding-left: 40%;
+    margin-top: 8%;
+    text-align:justify;
+    font-size:xx-large;
+}
+#logo img
+{
+    float: left;
+    height: 400px;
+    border-style: groove;
+
+}

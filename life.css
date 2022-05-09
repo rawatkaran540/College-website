@@ -1,0 +1,38 @@
+.body
+{
+    background-color: brown;
+}
+.container
+{
+    background-color: black;
+    margin: 0%;
+    padding: 0%;
+}
+.header
+{ 
+    border: 2px solid black;
+    background-color: black;
+    color: azure;
+    font-style: normal;
+    text-align: center;
+    height: 65px;
+}
+.slider
+{
+    padding-top: 1%;
+    border: 2px solid rgb(99, 181, 16);
+    background-color: rgb(170, 208, 19);
+
+}
+.column {
+    float: left;
+    width: 25%;
+    padding: 5px;
+    visibility: visible;
+    padding-left: 3%;
+  }
+    .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }

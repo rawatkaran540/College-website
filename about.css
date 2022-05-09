@@ -1,0 +1,16 @@
+#img1
+{
+  float: left;
+    padding-top: 15%;
+    padding-left: 40%;
+   image-rendering: optimizeQuality;
+
+}
+.container
+{
+background-image: url("karan/pcte.jpg");
+background-repeat: no-repeat;
+background-position: center;
+float: left;
+padding-left: 40%;
+}

@@ -1,0 +1,21 @@
+
+#contents
+{
+    background-color: blue;
+}
+#contents img
+{
+    display: block;
+    height: 200px;
+}
+#contents a{
+    text-decoration: double;
+}
+#middle img
+{
+height: 200px;
+}
+#low img
+{
+    height:200px
+}
