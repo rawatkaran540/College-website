@@ -19,13 +19,16 @@
 }
 .contents h1
 {
-    margin-top: 5%;
-text-align:justify;
+    margin-top: 6%;
+    margin-left: 0%;
+    color:blue;
+text-align:center;
 text-decoration-line:overline;
 }
 .contents{
     margin: 0%;
     padding: 0%;
+    display: contents;
 }
 .contents p{
     padding-left: 40%;
@@ -35,8 +38,16 @@ text-decoration-line:overline;
 }
 #logo img
 {
-    float: left;
-    height: 400px;
-    border-style: groove;
+    width: 15%;
+	position: absolute;
+	float: left;
+	top: 0px;
+	padding-left: 420px;
+     margin-top: 16%;
+    left: 0;
+    width: 300px;
+    height: 430px;
+    color: #FFFFFF;
+    z-index: 9999;
 
 }
